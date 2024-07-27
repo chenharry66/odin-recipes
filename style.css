@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(146, 197, 242);
+}
+
+h1 { 
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    color: rgb(63, 137, 201);
+}
+
+
+.lasagna, .carbonara, .rice{
+    padding: 0 10px; 
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: rgb(208, 195, 195);
+    font-family: "Roboto", "Montserrat", "Poppins";
+    font-size: 21px;
+    text-decoration: none;
+
+}
